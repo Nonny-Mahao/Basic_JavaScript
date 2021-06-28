@@ -6,7 +6,7 @@
 This is a simple project that implements different functions in JavaScript.
 This project was conducted as an exercise during a learnership hosted by [Girlcode](https://github.com/GirlCodeZA)
 
-It was built using **HTML** and **JavaScript**.
+It was built using **JavaScript**.
 ## Tools used : *Visual Studio Code*
 
 ## Features to be implemented in the future :
